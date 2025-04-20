@@ -51,9 +51,3 @@ This project automates the deployment of a **MySQL database on AWS RDS** and a *
 - RDS MySQL database details (via output `first`)
 
 ---
-
-## 🧪 Usage
-
-1. **Initialize Terraform**
-   ```bash
-   terraform init
