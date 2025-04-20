@@ -16,11 +16,6 @@ This project automates the deployment of a **MySQL database on AWS RDS** and a *
 
 ---
 
-## 📁 Project Structure
-
-├── main.tf # Main Terraform script ├── README.md # Project documentation
----
-
 ## 🛠️ Prerequisites
 
 - [Terraform](https://www.terraform.io/downloads)
